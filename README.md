@@ -3,6 +3,8 @@ This Javascript file create a widget on the top left of the screen displaying th
 
 Feel free to use it, copy it, fork it, or whatever.
 
+![img](./widget.png)
+
 ## How to use it
 Just copy-paste this line at the very end of your HTML:
 ```
